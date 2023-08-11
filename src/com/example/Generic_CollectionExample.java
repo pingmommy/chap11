@@ -27,7 +27,7 @@ public class Generic_CollectionExample {
 		map1.put(67, 'C');
 
 		
-		HashMap<String, Integer> map2 = new HashMap<>(); // => new 연산자 뒷 부분 <> 안의 타입은 생략가능.
+		HashMap<String, Integer> map2 = new HashMap<>(); // => new 연산자 뒷 부분 <> 안의 타입은 생략가능. 
 		map2.put("java", 10000);
 		
 		
